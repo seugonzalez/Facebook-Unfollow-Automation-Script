@@ -19,7 +19,7 @@ This Python script automates the process of unfollow pages on Facebook. Utilizin
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/facebook-unlike-script.git
+   git clone https://github.com/seugonzalez/facebook-unlike-script.git
    ```
 2. Navigate to the cloned directory.
 3. Open the script `unlike_pages.py` in a text editor.
