@@ -1,7 +1,7 @@
-# Facebook Unliking Automation Script
+# Facebook Unfollow Automation Script
 
 ## Description
-This Python script automates the process of unliking pages on Facebook. Utilizing the Selenium WebDriver, it systematically navigates through a user's liked pages and 'unlikes' each one. This tool is especially useful for users looking to declutter their Facebook profile and manage their likes more effectively.
+This Python script automates the process of unfollow pages on Facebook. Utilizing the Selenium WebDriver, it systematically navigates through a user's liked pages and 'unlikes' each one. This tool is especially useful for users looking to declutter their Facebook profile and manage their likes more effectively.
 
 ## Prerequisites
 - Python 3.x
@@ -28,7 +28,7 @@ This Python script automates the process of unliking pages on Facebook. Utilizin
    ```bash
    python unlike_pages.py
    ```
-6. The script will start a browser session and begin the unliking process.
+6. The script will start a browser session and begin the unfollow process.
 
 ## Disclaimer
 This script is for educational purposes only. Automated actions on Facebook should comply with Facebook's terms of service. The author is not responsible for any actions taken against your Facebook account as a result of using this script.
